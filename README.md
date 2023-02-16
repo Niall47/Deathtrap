@@ -7,6 +7,8 @@ The current model is here https://www.tinkercad.com/things/5qX1Q9WO0Pc-death-tra
 
 I own rights to the logo, so please don't reuse it.
 
-![alt text](images/Deathtrap.png "Tinkercad")
-![alt text](images/Deathtrap_back.png "Tinkercad")
-![alt text](images/IMG_20221030_133552.jpg "image")
+![alt text](images/1.png "Tinkercad")
+![alt text](images/2.png "Tinkercad")
+![alt text](images/25.jpg "image")
+![alt text](images/26 "image")
+
